@@ -1,4 +1,4 @@
-package org.example.singleton;
+package org.example.Singleton;
 
 public class DoubleCheckedLockingSingleton {
 
