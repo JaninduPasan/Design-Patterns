@@ -29,4 +29,12 @@
 
 ### Pre-existing web client that want to interact with another web service, that only support JSON objects.
 
-![img.png](../Adapter%20Diagram.png)
+![img.png](Adapter%20Diagram.png)
+
+
+## Summary
+
+* ### Wrap the adaptee and exposes a target interface to the client
+* ### Indirectly change the adaptee’s interface into one that the client is expecting by implementing a target interface.
+* ### Indirectly translate the client’s request into one that the adaptee is expecting.
+* ### Reuse an existing adaptee with an incompatible interface.

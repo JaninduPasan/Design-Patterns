@@ -22,4 +22,4 @@
 
 ## Example diagram
 
-![img.png](../Facade%20diagram.png)
+![img.png](Facade%20diagram.png)
