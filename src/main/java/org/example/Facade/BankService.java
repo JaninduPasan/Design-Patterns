@@ -7,6 +7,10 @@ import org.example.Facade.Implemetations.Saving;
 import java.math.BigDecimal;
 import java.util.Hashtable;
 
+/***
+ * Facade class -> public methods are simple to use and show no hint of the underlying interface and implementing classes
+ * */
+
 public class BankService {
     private Hashtable<Integer, BankServiceInterface> bankAccounts;
 
