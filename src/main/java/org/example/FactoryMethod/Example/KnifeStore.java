@@ -1,4 +1,4 @@
-package org.example.FactoryMethod;
+package org.example.FactoryMethod.Example;
 
 public abstract class KnifeStore {
 

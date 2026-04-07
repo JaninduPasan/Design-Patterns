@@ -1,4 +1,4 @@
-package org.example.Facade;
+package org.example.Facade.Example;
 
 import java.math.BigDecimal;
 

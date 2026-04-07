@@ -1,11 +1,11 @@
-package org.example.Facade.Implemetations;
+package org.example.Facade.Example.Implemetations;
 
-import org.example.Facade.BankServiceInterface;
+import org.example.Facade.Example.BankServiceInterface;
 
 import java.math.BigDecimal;
 
-public class Chequing implements BankServiceInterface {
-    public Chequing(BigDecimal initAmmount) {
+public class Investement implements BankServiceInterface {
+    public Investement(BigDecimal initAmmount) {
     }
 
     @Override

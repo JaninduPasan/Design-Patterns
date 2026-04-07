@@ -1,8 +1,8 @@
-package org.example.Facade;
+package org.example.Facade.Example;
 
-import org.example.Facade.Implemetations.Chequing;
-import org.example.Facade.Implemetations.Investement;
-import org.example.Facade.Implemetations.Saving;
+import org.example.Facade.Example.Implemetations.Chequing;
+import org.example.Facade.Example.Implemetations.Investement;
+import org.example.Facade.Example.Implemetations.Saving;
 
 import java.math.BigDecimal;
 import java.util.Hashtable;

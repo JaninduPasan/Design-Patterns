@@ -18,3 +18,8 @@
 * ### Handles instantiation and redirection of tasks to the appropriate class within the subsystem.
 * ### Provides client classes with a simplified interface for the subsystem.
 * ### Acts simply as a point of entry to a subsystem and does not add more functional subsystems.
+
+
+## Example diagram
+
+![img.png](../Facade%20diagram.png)

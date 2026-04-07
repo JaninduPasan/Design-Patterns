@@ -1,6 +1,6 @@
-package org.example.FactoryMethod.KnifeTypes;
+package org.example.FactoryMethod.Example.KnifeTypes;
 
-import org.example.FactoryMethod.Knife;
+import org.example.FactoryMethod.Example.Knife;
 
 public class BudgetChefsKnife implements Knife {
     @Override
